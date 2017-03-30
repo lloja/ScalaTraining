@@ -1,0 +1,13 @@
+/RUNNING_PID
+/logs
+/project
+/target
+/bin
+/libexec
+/.sbtserver
+logs
+project
+target
+bin
+libexec
+.sbtserver
